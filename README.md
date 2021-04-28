@@ -15,8 +15,8 @@ We extract 3 indicators from the price over 30 timestep:
 - Exponential moving average
 
 ## Visualization & Analysis
-We allow a tool for the data exploration of both the sentiment and price information.
-This provide some inside that can benefit some traiding strategies as the sentiment work as a confirmation of the trend strenght.
+We implement a tool for the data exploration of both the sentiment and price information.
+This provide some inside that can benefit some trading strategies as the sentiment works as a confirmation of the trend strenght.
 From our analysis there is no clear causality and by consequence the sentiment cannot be used in this setup to predict future trend change of the price.
 
 ![Alt text](/git-docs/gui.JPG ) 
